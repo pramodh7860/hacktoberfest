@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Pramodh](https://github.com/pramodh7860)
-- Place: City, State, Country
-- Bio: Who are you?
+- Place: Srikakulam, Andhra pradesh, INDIA
+- Bio: Web developer using Java and Block chain enthusiast
 - GitHub: [pramodh7860](https://github.com/pramodh7860)

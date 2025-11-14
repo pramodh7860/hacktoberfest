@@ -1,20 +1,19 @@
 # Pramodh
 
 ### Location
-
-Your City/Country
+srikakulam,Andhra pradesh, India
 
 ### Academics
 
-Your School
+SRM UNIVERSITY AP
 
 ### Interests
 
-- Some Things You Like
+- I LIKE ANIME AND MANGA AS A SIDE QUEST MORE
 
 ### Development
 
-- Your Development Interests
+- I LIKE WORKING ON BLOCKCHAIN
 
 ### Projects
 
